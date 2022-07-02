@@ -1,2 +1,2 @@
-# argocd-work-demo
-Work ArgoCD demo. From scratch to full  
+# argocd-working-example
+Working example of using ArgoCD. From scratch to full  

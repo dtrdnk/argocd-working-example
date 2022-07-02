@@ -1,0 +1,13 @@
+nameOverride: guestbook
+fullnameOverride: guestbook
+
+image:
+  repository: gcr.io/heptio-images/ks-guestbook-demo
+
+resources:
+  limits:
+    cpu: 300m
+    memory: 512Mi
+  requests:
+    cpu: 100m
+    memory: 256Mi

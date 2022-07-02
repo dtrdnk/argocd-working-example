@@ -1,0 +1,15 @@
+nameOverride: hello-kubernetes
+fullnameOverride: hello-kubernetes
+
+image:
+  repository: paulbouwer/hello-kubernetes
+
+containerPort: 8080
+
+resources:
+  limits:
+    cpu: 500m
+    memory: 1024Mi
+  requests:
+    cpu: 100m
+    memory: 512Mi

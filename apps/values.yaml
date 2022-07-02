@@ -1,0 +1,10 @@
+---
+namespaces: [develop, test]
+
+applications:
+  - name: guestbook
+    namespaces: [develop,test]
+  - name: hello-kubernetes
+    namespaces: [develop,test]
+  - name: static
+    namespaces: [develop,test]
