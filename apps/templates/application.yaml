@@ -14,7 +14,7 @@ spec:
   project: default
   source:
     path: common
-    repoURL: https://github.com/dmitrii-dmnk/argocd-working-example.git
+    repoURL: https://github.com/dtrdnk/argocd-working-example.git
     targetRevision: master
     helm:
       valueFiles:

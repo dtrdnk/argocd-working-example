@@ -1211,7 +1211,7 @@ server:
       additionalAnnotations: {}
       project: default
       source:
-        repoURL: https://github.com/dmitrii-dmnk/argocd-working-example.git
+        repoURL: https://github.com/dtrdnk/argocd-working-example.git
         targetRevision: master
         path: apps
         helm:
@@ -1230,7 +1230,7 @@ server:
       additionalAnnotations: {}
       project: default
       source:
-        repoURL: https://github.com/dmitrii-dmnk/argocd-working-example.git
+        repoURL: https://github.com/dtrdnk/argocd-working-example.git
         targetRevision: master
         path: infra
         helm:
